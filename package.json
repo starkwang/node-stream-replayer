@@ -1,0 +1,30 @@
+{
+  "name": "stream-replayer",
+  "version": "0.0.1",
+  "description": "Store a stream and replay it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/starkwang/node-stream-replayer.git"
+  },
+  "keywords": [
+    "stream",
+    "replay"
+  ],
+  "author": "starkwang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/starkwang/node-stream-replayer/issues"
+  },
+  "homepage": "https://github.com/starkwang/node-stream-replayer#readme",
+  "dependencies": {
+    "to-readable-stream": "^2.1.0"
+  },
+  "devDependencies": {
+    "jest": "^26.4.2",
+    "stream-equal": "^2.0.1"
+  }
+}
