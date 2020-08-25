@@ -24,6 +24,8 @@
     "to-readable-stream": "^2.1.0"
   },
   "devDependencies": {
+    "get-stream": "^6.0.0",
+    "got": "^11.5.2",
     "jest": "^26.4.2",
     "stream-equal": "^2.0.1"
   }
